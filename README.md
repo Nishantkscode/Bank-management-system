@@ -3,7 +3,7 @@
 A Java-based Bank Management System developed using Object-Oriented Programming (OOP) concepts.
 
 ## 👨‍💻 Developer
-**Nishant Kumar**
+**Nishant Kumar Sharma**
 
 ## 🚀 Features
 - User Login and Admin Login
