@@ -57,4 +57,4 @@ java BankSystem
 
 ---
 
-**Developed by Nishant Kumar**
+**Developed by Nishant Kumar Sharma**
